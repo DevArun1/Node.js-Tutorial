@@ -105,7 +105,7 @@ If you want to contribute to this tutorial:
 
 3. Create a pull request with a clear description of your changes.
 
-We appreciate any feedback or suggestions that can help us improve this tutorial. Thank you! 😊
+Thank you! 😊
 
 ## License 📄
 
