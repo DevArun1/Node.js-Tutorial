@@ -105,7 +105,7 @@ app.get("*", (req, res) => {
 app.listen(5001);
 ```
 
-- Now, if the user type wrong URL in the browser, then the browser will show the default page.
+Now, if the user type wrong URL in the browser, then the browser will show the default page.
 
 ## ⭐ 404 Page
 - Go to public folder and create a new file called 404.html. This file will be our 404 page.
