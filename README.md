@@ -106,7 +106,3 @@ If you want to contribute to this tutorial:
 3. Create a pull request with a clear description of your changes.
 
 Thank you! 😊
-
-## License 📄
-
-This tutorial is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
